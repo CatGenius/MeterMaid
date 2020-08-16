@@ -1,4 +1,8 @@
+# 0. Preface
+This is an old graduation project from 2004. It was hosted on a subsection of a now defunct website, nerdclub.nl. The text and code presented here serves as a backup, for nostalgic reasons.
+
 ![](https://github.com/CatGenius/MeterMaid/raw/master/doc/images/MeterMaid.jpg)
+
 # 1. Introduction
 The "Meter Maid" in this case is not a policewoman who is assigned to write parking tickets. Instead it's a device for gathering statistics about energy consumption.
 
